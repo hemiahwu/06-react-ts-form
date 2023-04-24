@@ -1,4 +1,16 @@
-## ReactTypescript-Multistep Form Custom
+## 06-ReactTypescript-Multistep Form Custom
+
+## 第一章 课程代码
+
+Git仓库地址: https://github.com/hemiahwu/06-react-ts-form
+
+百度网盘链接: https://pan.baidu.com/s/1aQrkp8OiQMAkm9nkotomzg?pwd=gxym 提取码: gxym
+
+
+
+课程答疑微信: 
+
+<img src="https://i.postimg.cc/YCWHJWTw/Wechat-IMG233.jpg" alt="WechatIMG233"  />
 
 ### 1. 创建项目
 
@@ -583,4 +595,6 @@ function onSubmit(e: FormEvent){
   alert("已完成所有注册表单,做你自己的业务逻辑")
 }
 `````
+
+
 
