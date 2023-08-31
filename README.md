@@ -10,7 +10,7 @@ Git仓库地址: https://github.com/hemiahwu/06-react-ts-form
 
 课程答疑微信: 
 
-<img src="https://i.postimg.cc/YCWHJWTw/Wechat-IMG233.jpg" alt="WechatIMG233"  />
+web1024b
 
 ### 1. 创建项目
 
